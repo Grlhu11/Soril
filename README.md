@@ -35,4 +35,4 @@ mysql -u root -p airport_db < backup.sql
 
 Нэр: Gerelkhuu
 Код: B222270118
-GitHub: (repo link)
+GitHub: (https://github.com/Grlhu11/Soril/edit/main/README.md)
